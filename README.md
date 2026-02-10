@@ -1,4 +1,4 @@
-# Team 22471A05 – Realistic and Lightweight Driver Drowsiness Detection
+# Team AB3 – Realistic and Lightweight Driver Drowsiness Detection
 
 ## Team Info
 - 22471A0538 — **Moghal Babar** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )  
